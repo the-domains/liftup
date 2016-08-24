@@ -1,0 +1,14 @@
+layout_spectrum: 0.6827284
+typography_spectrum: 0.4308108
+color:
+  lightness: 0.9996712
+  brandStrength: 0.9205257
+  saturation: 0.5125553
+  rhythmicContrast: 0.4699596
+  brandColors:
+    - '#FFFFFB'
+    - '#C5AE47'
+    - '#212C39'
+    - '#6DA19A'
+    - '#6C3450'
+name: LiftUp
